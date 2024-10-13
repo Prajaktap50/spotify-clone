@@ -26,3 +26,6 @@ Spotify Clone is a web application developed using HTML, CSS, and JavaScript tha
 Contributions to this project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request. Let's make Spotify Clone even better together!
 
 I hope you enjoy exploring and using Spotify Clone! Your feedback and contributions are highly appreciated. If you have any questions or need further assistance, please don't hesitate to reach out. Happy listening!
+
+Visit 🎶🎶🎶🎶🎶 - https://prajaktap50.github.io/spotify-clone/
+![Screenshot 2024-10-13 182606](https://github.com/user-attachments/assets/5995ff45-b430-40aa-9f1f-5098ae57a6b7)
